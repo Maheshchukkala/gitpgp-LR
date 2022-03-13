@@ -2,4 +2,5 @@ This is a conflict file.
 This is to resolve conflict
 This is a line added in dev branch.
 This is a test code.
-This test code is writtten in dev branch.
+This is a new line of code.
+
